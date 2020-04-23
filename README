@@ -1,0 +1,10 @@
+Must have apache installed 
+Must have apxs installed
+Compile and install by running install.sh as root or running:
+
+apxs -i -a -c pepe_module.c
+
+Also you must touch your server config
+Searh in the example.http.conf document for #PEPE to see what you must add
+
+

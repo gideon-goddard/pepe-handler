@@ -1,0 +1,5 @@
+.libs/
+*.out
+*.la
+*.lo
+*.slo
